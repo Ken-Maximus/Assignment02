@@ -19,15 +19,15 @@ function App() {
       caption: "Germany"
     },
     {
-      image: "https://i.natgeofe.com/n/f7732389-a045-402c-bf39-cb4eda39e786/scotland_travel_4x3.jpg",
-      caption: "Scotland"
+      image: "https://images.pexels.com/photos/7939873/pexels-photo-7939873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      caption: "Russia"
     },
     {
       image: "https://www.tusktravel.com/blog/wp-content/uploads/2020/07/Best-Time-to-Visit-Darjeeling-for-Honeymoon.jpg",
       caption: "Darjeeling"
     },
     {
-      image: "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://images.pexels.com/photos/5589598/pexels-photo-5589598.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
       caption: "Tokyo"
     },
     {
