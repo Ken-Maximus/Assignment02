@@ -51,7 +51,7 @@ function App() {
   return (
     <div className="App">
       <div style={{ textAlign: "center" }}>
-        <h2>CS730 ASIGNMENT TWO</h2>
+        <h2>CS730 ASSIGNMENT TWO</h2>
         <p>Easy to use and responsive carousel for the assignment </p>
         <div style={{
           padding: "0 30px"
