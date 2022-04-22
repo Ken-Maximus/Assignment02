@@ -52,7 +52,7 @@ function App() {
     <div className="App">
       <div style={{ textAlign: "center" }}>
         <h2>CS730 ASIGNMENT TWO</h2>
-        <p>Easy to use, responsive and customizable carousel component for React Projects.</p>
+        <p>Easy to use and responsive carousel </p>
         <div style={{
           padding: "0 20px"
         }}>
