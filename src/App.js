@@ -35,8 +35,8 @@ function App() {
       caption: "Scotland"
     },
     {
-      image: "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/02/summer-7.jpg",
-      caption: "Darjeeling"
+      image: "https://images.pexels.com/photos/1750754/pexels-photo-1750754.jpeg?cs=srgb&dl=pexels-vincent-albos-1750754.jpg&fm=jpg",
+      caption: "Toronto"
     }
   ];
 
