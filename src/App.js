@@ -57,29 +57,6 @@ function App() {
           padding: "0 30px"
         }}>
 
-<nav aria-label="breadcrumbs">
-  <ol>
-    <li>
-      <a href="/">
-        Home
-      </a>
-    </li>
-    <li>
-      <a href="/parent">
-        Parent
-      </a>
-    </li>
-    <li>
-      <a
-        href="/parent/current"
-        aria-current="location"
-      >
-        Current
-      </a>
-    </li>
-  </ol>
-</nav>
-
           <Carousel
             data={data}
             time={3000}
